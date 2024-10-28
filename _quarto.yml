@@ -8,6 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - notes.qmd
+      - Session4.ipynb
       - about.qmd
 format:
   html:
