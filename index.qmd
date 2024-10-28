@@ -1,0 +1,10 @@
+---
+title: "Quarto Trials"
+---
+
+
+This ia trial website to check out whats possible with Quarto
+
+### You can edit this file with Quarto Markdown
+
+
