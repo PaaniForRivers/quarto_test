@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto Trials",
+    "section": "",
+    "text": "This ia trial website to check out whats possible with Quarto\n\nYou can edit this file with Quarto Markdown"
+  }
+]
